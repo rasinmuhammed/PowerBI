@@ -1,0 +1,86 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 76,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "snowball_output",
+          "nodeLineageTag": "d1ebe5a6-519a-4a39-bbda-715841fad82d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 555,
+            "y": 22
+          },
+          "nodeIndex": "Product",
+          "nodeLineageTag": "274bf0d9-fac3-44f4-b173-c2b50c23f945",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 539,
+            "y": 344
+          },
+          "nodeIndex": "customer",
+          "nodeLineageTag": "d2411b8e-5170-4052-a4dc-4f65ed65698d",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 875,
+            "y": 122
+          },
+          "nodeIndex": "Invoice Data",
+          "nodeLineageTag": "cea39e7a-d817-4fc7-9559-7360ef7fc947",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1159,
+            "y": 184
+          },
+          "nodeIndex": "Calendar",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
